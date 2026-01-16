@@ -1,0 +1,104 @@
+{
+  "clients": [
+    {
+      "name": "romit",
+      "pdfFilename": "1764327699401-kankotri.pdf",
+      "textBoxes": [
+        {
+          "id": 1764327712487,
+          "fieldName": "name",
+          "page": 1,
+          "x": 208.84375,
+          "y": 641,
+          "width": 200,
+          "height": 30,
+          "fontSize": 20,
+          "xPct": 0.3480729166666667,
+          "yPct": 0.6059659993644742,
+          "widthPct": 0.3333333333333333,
+          "heightPct": 0.02836034318398475
+        }
+      ],
+      "updatedAt": "2025-11-28T11:03:12.477Z"
+    }
+  ],
+  "logs": [
+    {
+      "timestamp": "2025-11-28T10:42:42.458Z",
+      "name": "વત્સલ અરવિંદભાઈ માંગુકિયા",
+      "number": "+919825296591",
+      "status": "FAILED",
+      "message": "PDF not found: /Users/vats/Documents/kankotri_name/server/output/romit/વત્સલ અરવિંદભાઈ માંગુકિયા.pdf"
+    },
+    {
+      "timestamp": "2025-11-28T10:42:42.469Z",
+      "name": "રોમીત ડોબરીયા",
+      "number": "+919429091518",
+      "status": "FAILED",
+      "message": "PDF not found: /Users/vats/Documents/kankotri_name/server/output/romit/રોમીત ડોબરીયા.pdf"
+    },
+    {
+      "timestamp": "2025-11-28T10:45:15.463Z",
+      "name": "કિશોરભાઈ નારણભાઇ ડોબરીયા",
+      "number": "+919825296591",
+      "status": "ERROR",
+      "message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"div[title=\\\"Attach\\\"]\")\n"
+    },
+    {
+      "timestamp": "2025-11-28T10:45:53.336Z",
+      "name": "પંકજભાઈ મધુભાઈ ડોબરીયા",
+      "number": "+919313499384",
+      "status": "ERROR",
+      "message": "Page.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"div[title=\\\"Attach\\\"]\")\n"
+    },
+    {
+      "timestamp": "2025-11-28T10:50:23.553Z",
+      "name": "કિશોરભાઈ નારણભાઇ ડોબરીયા",
+      "number": "+919825296591",
+      "status": "ERROR",
+      "message": "Page.wait_for_selector: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\"ul > li > div[aria-label=\\\"Document\\\"]\") to be visible\n"
+    },
+    {
+      "timestamp": "2025-11-28T10:50:33.953Z",
+      "name": "પંકજભાઈ મધુભાઈ ડોબરીયા",
+      "number": "+919313499384",
+      "status": "ERROR",
+      "message": "Page.wait_for_selector: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\"ul > li > div[aria-label=\\\"Document\\\"]\") to be visible\n"
+    },
+    {
+      "timestamp": "2025-11-28T10:55:17.791Z",
+      "name": "કિશોરભાઈ નારણભાઇ ડોબરીયા",
+      "number": "+919825296591",
+      "status": "ERROR",
+      "message": "Locator.wait_for: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\"span:has-text(\\\"Document\\\"), [aria-label=\\\"Document\\\"]\").first to be visible\n    14 × locator resolved to hidden <span class=\"\">…</span>\n"
+    },
+    {
+      "timestamp": "2025-11-28T10:56:13.396Z",
+      "name": "કિશોરભાઈ નારણભાઇ ડોબરીયા",
+      "number": "+919825296591",
+      "status": "ERROR",
+      "message": "Page.goto: Target page, context or browser has been closed"
+    },
+    {
+      "timestamp": "2025-11-28T10:56:13.404Z",
+      "name": "પંકજભાઈ મધુભાઈ ડોબરીયા",
+      "number": "+919313499384",
+      "status": "ERROR",
+      "message": "Page.goto: Target page, context or browser has been closed"
+    },
+    {
+      "timestamp": "2025-11-28T10:57:49.387Z",
+      "name": "કિશોરભાઈ નારણભાઇ ડોબરીયા",
+      "number": "+919825296591",
+      "status": "ERROR",
+      "message": "Locator.wait_for: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\"span:has-text(\\\"Document\\\"), [aria-label=\\\"Document\\\"]\").first to be visible\n    14 × locator resolved to hidden <span class=\"\">…</span>\n"
+    },
+    {
+      "timestamp": "2025-11-28T10:57:58.962Z",
+      "name": "પંકજભાઈ મધુભાઈ ડોબરીયા",
+      "number": "+919313499384",
+      "status": "ERROR",
+      "message": "Locator.wait_for: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\"span:has-text(\\\"Document\\\"), [aria-label=\\\"Document\\\"]\").first to be visible\n    15 × locator resolved to hidden <span class=\"\">…</span>\n"
+    }
+  ]
+}
